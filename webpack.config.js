@@ -45,5 +45,7 @@ module.exports = {
   devServer: {
     publicPath: '/dist/',
     hot: true,
+    port: 4000,
+    disableHostCheck: true,
   },
 };
