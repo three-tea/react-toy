@@ -13,7 +13,7 @@ module.exports = {
   },
   entry: {
     app: [
-      './client',
+      './src/index',
     ],
   }, // 입력
   module: {

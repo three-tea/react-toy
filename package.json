@@ -2,7 +2,7 @@
   "name": "react-toy",
   "version": "1.0.0",
   "description": "",
-  "main": "client.jsx",
+  "main": "src/index.js",
   "scripts": {
     "dev": "webpack serve --env development",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -48,6 +48,7 @@
     "prettier": "^2.0.5",
     "react-hot-loader": "^4.12.21",
     "react-refresh": "^0.9.0",
+    "redux-devtools-extension": "^2.13.8",
     "webpack": "^5.4.0",
     "webpack-cleanup-plugin": "^0.5.1",
     "webpack-cli": "^4.2.0",
